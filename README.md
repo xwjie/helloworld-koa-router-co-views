@@ -5,10 +5,9 @@ koa,  koa-router, co-views demo
 ## demo for
 * koa
 * koa-router
-* co-views, use ejs template
+* co-views ä½¿ç”¨ ejs æ¨¡æ¿
 
-
-## ÔËĞĞ
+## è¿è¡Œ
 ```
 node koa-router.js 
 ```
@@ -17,6 +16,7 @@ or
 supervisor koa-router.js
 ```
 
-##½ØÍ¼
+
+##æˆªå›¾
 
 <img src="./snap1.png" style="width: 100%;" />
